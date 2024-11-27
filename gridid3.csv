@@ -1,0 +1,330 @@
+﻿grid_id,org_grid_id,pair_arrangement,experiment,location,site,depth,site_meangamma,habitat_meangamma,months_deployed,date_deployed,date_collected,date_collected2,exposure,layer
+1,1,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,4,18/9/2021,20/1/2022,44581,Low,Top
+2,1,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,4,18/9/2021,20/1/2022,44581,Low,Bottom
+3,2,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,4,18/9/2021,20/1/2022,44581,Low,Bottom
+4,2,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,4,18/9/2021,20/1/2022,44581,Low,Top
+5,3,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,4,18/9/2021,23/1/2022,44584,Low,Bottom
+6,3,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,4,18/9/2021,23/1/2022,44584,Low,Top
+7,1,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,4,18/9/2021,19/1/2022,44580,Low,Bottom
+8,1,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,4,18/9/2021,19/1/2022,44580,Low,Top
+9,2,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,4,18/9/2021,20/1/2022,44581,Low,Bottom
+10,2,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,4,18/9/2021,20/1/2022,44581,Low,Top
+11,3,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,4,18/9/2021,20/1/2022,44581,Low,Bottom
+12,3,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,4,18/9/2021,20/1/2022,44581,Low,Top
+13,1,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,4,19/9/2021,23/1/2022,44584,Low,Top
+14,1,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,4,19/9/2021,23/1/2022,44584,Low,Bottom
+15,2,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,4,19/9/2021,27/1/2022,44588,Low,Top
+16,2,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,4,19/9/2021,27/1/2022,44588,Low,Bottom
+17,3,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,4,19/9/2021,27/1/2022,44588,Low,Top
+18,3,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,4,19/9/2021,27/1/2022,44588,Low,Bottom
+19,2,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,19/9/2021,29/1/2022,44590,Low,Bottom
+20,3,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,19/9/2021,29/1/2022,44590,Low,Top
+21,3,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,19/9/2021,29/1/2022,44590,Low,Bottom
+22,1,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,19/9/2021,27/1/2022,44588,Low,Bottom
+23,1,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,19/9/2021,27/1/2022,44588,Low,Top
+24,2,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,19/9/2021,29/1/2022,44590,Low,Top
+25,2,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,4,20/9/2021,1/2/2022,44593,High,Top
+26,3,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,4,20/9/2021,1/2/2022,44593,High,Top
+27,1,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,4,20/9/2021,1/2/2022,44593,High,Top
+28,3,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,4,21/9/2021,3/2/2022,44595,High,Top
+29,2,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,4,21/9/2021,3/2/2022,44595,High,Top
+30,1,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,4,21/9/2021,3/2/2022,44595,High,Top
+31,3,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,4,20/9/2021,1/2/2022,44593,High,Top
+32,2,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,4,20/9/2021,1/2/2022,44593,High,Top
+33,1,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,4,20/9/2021,1/2/2022,44593,High,Top
+34,1,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,4,21/9/2021,3/2/2022,44595,High,Top
+35,2,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,4,21/9/2021,3/2/2022,44595,High,Top
+36,3,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,4,21/9/2021,3/2/2022,44595,High,Top
+37,2,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,4,26/9/2021,13/2/2022,44605,Low,Top
+38,3,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,4,26/9/2021,13/2/2022,44605,Low,Top
+39,1,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,4,26/9/2021,13/2/2022,44605,Low,Top
+40,2,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,4,22/9/2021,9/2/2022,44601,Low,Top
+41,1,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,4,22/9/2021,9/2/2022,44601,Low,Top
+42,3,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,4,22/9/2021,9/2/2022,44601,Low,Top
+43,1,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,4,9/11/2021,19/3/2022,44639,Low,Top
+44,1,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,4,9/11/2021,19/3/2022,44639,Low,Bottom
+45,2,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,4,9/11/2021,19/3/2022,44639,Low,Top
+46,2,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,4,9/11/2021,19/3/2022,44639,Low,Bottom
+47,3,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,4,9/11/2021,19/3/2022,44639,Low,Bottom
+48,3,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,4,9/11/2021,19/3/2022,44639,Low,Top
+49,4,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,4,9/11/2021,19/3/2022,44639,Low,Bottom
+50,4,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,4,9/11/2021,19/3/2022,44639,Low,Top
+51,1,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,4,9/11/2021,30/3/2022,44650,Low,Bottom
+52,3,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,4,9/11/2021,30/3/2022,44650,Low,Bottom
+53,4,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,4,9/11/2021,3/4/2022,44654,Low,Bottom
+54,2,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,4,9/11/2021,30/3/2022,44650,Low,Bottom
+55,2,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,4,9/11/2021,30/3/2022,44650,Low,Top
+56,1,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,4,9/11/2021,30/3/2022,44650,Low,Top
+57,3,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,4,9/11/2021,3/4/2022,44654,Low,Top
+58,4,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,4,9/11/2021,3/4/2022,44654,Low,Top
+59,1,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,4,10/11/2021,24/3/2022,44644,High,Bottom
+60,2,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,4,10/11/2021,24/3/2022,44644,High,Bottom
+61,4,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,4,10/11/2021,24/3/2022,44644,High,Bottom
+62,3,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,4,10/11/2021,24/3/2022,44644,High,Top
+63,3,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,4,10/11/2021,24/3/2022,44644,High,Bottom
+64,2,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,4,10/11/2021,24/3/2022,44644,High,Top
+65,1,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,4,10/11/2021,24/3/2022,44644,High,Top
+66,4,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,4,10/11/2021,24/3/2022,44644,High,Top
+67,1,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,4,10/11/2021,3/4/2022,44654,Low,Top
+68,2,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,4,10/11/2021,3/4/2022,44654,Low,Top
+69,3,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,4,10/11/2021,3/4/2022,44654,Low,Top
+70,4,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,4,10/11/2021,3/4/2022,44654,Low,Top
+71,1,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,4,10/11/2021,3/4/2022,44654,Low,Bottom
+72,3,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,4,10/11/2021,3/4/2022,44654,Low,Bottom
+73,2,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,4,10/11/2021,3/4/2022,44654,Low,Bottom
+74,4,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,4,10/11/2021,3/4/2022,44654,Low,Bottom
+75,4,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,4,8/11/2021,12/4/2022,44663,High,Top
+76,3,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,4,8/11/2021,12/4/2022,44663,High,Bottom
+77,4,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,4,8/11/2021,12/4/2022,44663,High,Bottom
+78,2,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,4,8/11/2021,12/4/2022,44663,High,Bottom
+79,2,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,4,8/11/2021,12/4/2022,44663,High,Top
+80,1,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,4,8/11/2021,12/4/2022,44663,High,Bottom
+81,3,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,4,8/11/2021,12/4/2022,44663,High,Top
+82,1,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,4,8/11/2021,12/4/2022,44663,High,Top
+83,1,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,4,11/11/2021,30/3/2022,44650,High,Bottom
+84,1,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,4,11/11/2021,30/3/2022,44650,High,Top
+85,2,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,4,11/11/2021,30/3/2022,44650,High,Bottom
+86,4,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,4,11/11/2021,30/3/2022,44650,High,Top
+87,3,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,4,11/11/2021,30/3/2022,44650,High,Bottom
+88,4,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,4,11/11/2021,30/3/2022,44650,High,Top
+89,2,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,4,11/11/2021,30/3/2022,44650,High,Top
+90,3,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,4,11/11/2021,30/3/2022,44650,High,Top
+91,6,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,8,26/9/2021,16/6/2022,44728,Low,Top
+92,5,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,8,26/9/2021,16/6/2022,44728,Low,Top
+93,4,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,8,26/9/2021,16/6/2022,44728,Low,Top
+94,6,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,8,22/9/2021,20/6/2022,44732,Low,Top
+95,4,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,8,22/9/2021,20/6/2022,44732,Low,Top
+96,5,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,8,22/9/2021,20/6/2022,44732,Low,Top
+97,5,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,8,20/9/2021,13/6/2022,44725,High,Top
+98,4,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,8,20/9/2021,13/6/2022,44725,High,Top
+99,6,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,8,20/9/2021,13/6/2022,44725,High,Top
+100,5,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,8,20/9/2021,13/6/2022,44725,High,Top
+101,4,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,8,20/9/2021,13/6/2022,44725,High,Top
+102,6,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,8,20/9/2021,13/6/2022,44725,High,Top
+103,6,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,8,18/9/2021,21/6/2022,44733,Low,Top
+104,5,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,8,18/9/2021,21/6/2022,44733,Low,Bottom
+105,5,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,8,18/9/2021,21/6/2022,44733,Low,Top
+106,4,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,8,18/9/2021,21/6/2022,44733,Low,Bottom
+107,6,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,8,18/9/2021,21/6/2022,44733,Low,Bottom
+108,4,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,8,18/9/2021,21/6/2022,44733,Low,Top
+109,5,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,8,21/9/2021,28/5/2022,44709,High,Top
+110,6,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,8,21/9/2021,28/5/2022,44709,High,Top
+111,4,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,8,21/9/2021,28/5/2022,44709,High,Top
+112,6,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,8,21/9/2021,28/5/2022,44709,High,Top
+113,5,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,8,21/9/2021,28/5/2022,44709,High,Top
+114,4,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,8,21/9/2021,28/5/2022,44709,High,Top
+115,4,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,8,19/9/2021,7/6/2022,44719,Low,Top
+116,6,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,8,19/9/2021,7/6/2022,44719,Low,Bottom
+117,5,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,8,19/9/2021,7/6/2022,44719,Low,Bottom
+118,4,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,8,19/9/2021,7/6/2022,44719,Low,Bottom
+119,5,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,8,19/9/2021,7/6/2022,44719,Low,Top
+120,6,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,8,18/9/2021,25/5/2022,44706,Low,Bottom
+121,5,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,8,18/9/2021,25/5/2022,44706,Low,Bottom
+122,4,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,8,18/9/2021,25/5/2022,44706,Low,Top
+123,4,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,8,18/9/2021,25/5/2022,44706,Low,Bottom
+124,6,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,8,18/9/2021,25/5/2022,44706,Low,Top
+125,5,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,8,18/9/2021,25/5/2022,44706,Low,Top
+126,6,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,8,19/9/2021,12/6/2022,44724,Low,Bottom
+127,6,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,8,19/9/2021,12/6/2022,44724,Low,Top
+128,4,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,8,19/9/2021,12/6/2022,44724,Low,Top
+129,4,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,8,19/9/2021,10/6/2022,44722,Low,Bottom
+130,5,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,8,19/9/2021,10/6/2022,44722,Low,Bottom
+131,6,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,8,19/9/2021,7/6/2022,44719,Low,Top
+132,5,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,8,19/9/2021,10/6/2022,44722,Low,Top
+133,7,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,12,8/11/2021,31/10/2022,44865,High,Bottom
+134,8,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,12,8/11/2021,31/10/2022,44865,High,Bottom
+135,6,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,12,8/11/2021,31/10/2022,44865,High,Bottom
+136,5,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,12,8/11/2021,31/10/2022,44865,High,Bottom
+137,5,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,12,8/11/2021,31/10/2022,44865,High,Top
+138,6,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,12,8/11/2021,31/10/2022,44865,High,Top
+139,7,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,12,8/11/2021,31/10/2022,44865,High,Top
+140,8,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,12,8/11/2021,31/10/2022,44865,High,Top
+141,5,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,12,10/11/2021,31/10/2022,44865,Low,Bottom
+142,6,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,12,10/11/2021,31/10/2022,44865,Low,Bottom
+143,7,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,12,10/11/2021,31/10/2022,44865,Low,Bottom
+144,8,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,12,10/11/2021,31/10/2022,44865,Low,Bottom
+145,5,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,12,10/11/2021,3/11/2022,44868,Low,Top
+146,6,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,12,10/11/2021,3/11/2022,44868,Low,Top
+147,7,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,12,10/11/2021,3/11/2022,44868,Low,Top
+148,8,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,12,10/11/2021,3/11/2022,44868,Low,Top
+149,7,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,12,22/9/2021,19/10/2022,44853,Low,Top
+150,8,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,12,22/9/2021,18/10/2022,44852,Low,Top
+151,9,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,12,22/9/2021,18/10/2022,44852,Low,Top
+152,7,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,12,26/9/2021,18/10/2022,44852,Low,Top
+153,8,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,12,26/9/2021,18/10/2022,44852,Low,Top
+154,9,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,12,26/9/2021,18/10/2022,44852,Low,Top
+155,7,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,12,18/9/2021,2/10/2022,44836,Low,Bottom
+156,8,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,12,18/9/2021,2/10/2022,44836,Low,Bottom
+157,9,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,12,18/9/2021,2/10/2022,44836,Low,Bottom
+158,7,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,12,18/9/2021,2/10/2022,44836,Low,Top
+159,8,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,12,18/9/2021,2/10/2022,44836,Low,Top
+160,9,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,12,18/9/2021,2/10/2022,44836,Low,Top
+161,7,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,12,18/9/2021,9/10/2022,44843,Low,Bottom
+162,8,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,12,18/9/2021,9/10/2022,44843,Low,Bottom
+163,9,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,12,18/9/2021,9/10/2022,44843,Low,Bottom
+164,7,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,12,18/9/2021,9/10/2022,44843,Low,Top
+165,8,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,12,18/9/2021,9/10/2022,44843,Low,Top
+166,9,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,12,18/9/2021,9/10/2022,44843,Low,Top
+167,7,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,12,20/9/2021,21/9/2022,44825,High,Top
+168,8,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,12,20/9/2021,21/9/2022,44825,High,Top
+169,9,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,12,20/9/2021,21/9/2022,44825,High,Top
+170,7,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,12,20/9/2021,21/9/2022,44825,High,Top
+171,8,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,12,20/9/2021,21/9/2022,44825,High,Top
+172,9,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,12,20/9/2021,21/9/2022,44825,High,Top
+173,7,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,12,21/9/2021,26/9/2022,44830,High,Top
+174,8,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,12,21/9/2021,26/9/2022,44830,High,Top
+175,9,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,12,21/9/2021,26/9/2022,44830,High,Top
+176,7,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,12,21/9/2021,26/9/2022,44830,High,Top
+177,8,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,12,21/9/2021,26/9/2022,44830,High,Top
+178,9,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,12,21/9/2021,26/9/2022,44830,High,Top
+179,7,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,12,19/9/2021,30/9/2022,44834,Low,Bottom
+180,8,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,12,19/9/2021,30/9/2022,44834,Low,Bottom
+181,9,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,12,19/9/2021,30/9/2022,44834,Low,Bottom
+182,7,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,12,19/9/2021,30/9/2022,44834,Low,Top
+183,8,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,12,19/9/2021,30/9/2022,44834,Low,Top
+184,9,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,12,19/9/2021,30/9/2022,44834,Low,Top
+185,7,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,12,19/9/2021,7/10/2022,44841,Low,Bottom
+186,8,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,12,19/9/2021,7/10/2022,44841,Low,Bottom
+187,9,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,12,19/9/2021,7/10/2022,44841,Low,Bottom
+188,7,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,12,19/9/2021,7/10/2022,44841,Low,Top
+189,8,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,12,19/9/2021,7/10/2022,44841,Low,Top
+190,9,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,12,19/9/2021,7/10/2022,44841,Low,Top
+191,5,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,12,11/11/2021,8/11/2022,44873,High,Bottom
+192,6,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,12,11/11/2021,8/11/2022,44873,High,Bottom
+193,7,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,12,11/11/2021,8/11/2022,44873,High,Bottom
+194,8,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,12,11/11/2021,8/11/2022,44873,High,Bottom
+195,5,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,12,11/11/2021,8/11/2022,44873,High,Top
+196,6,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,12,11/11/2021,8/11/2022,44873,High,Top
+197,7,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,12,11/11/2021,8/11/2022,44873,High,Top
+198,8,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,12,11/11/2021,8/11/2022,44873,High,Top
+199,5,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,12,9/11/2021,11/11/2022,44876,Low,Bottom
+200,6,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,12,9/11/2021,11/11/2022,44876,Low,Bottom
+201,7,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,12,9/11/2021,11/11/2022,44876,Low,Bottom
+202,8,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,12,9/11/2021,11/11/2022,44876,Low,Bottom
+203,5,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,12,9/11/2021,11/11/2022,44876,Low,Top
+204,6,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,12,9/11/2021,11/11/2022,44876,Low,Top
+205,7,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,12,9/11/2021,11/11/2022,44876,Low,Top
+206,8,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,12,9/11/2021,11/11/2022,44876,Low,Top
+207,5,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,12,10/11/2021,15/11/2022,44880,High,Bottom
+208,6,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,12,10/11/2021,15/11/2022,44880,High,Bottom
+209,7,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,12,10/11/2021,15/11/2022,44880,High,Bottom
+210,8,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,12,10/11/2021,15/11/2022,44880,High,Bottom
+211,5,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,12,10/11/2021,15/11/2022,44880,High,Top
+212,6,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,12,10/11/2021,15/11/2022,44880,High,Top
+213,7,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,12,10/11/2021,15/11/2022,44880,High,Top
+214,8,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,12,10/11/2021,15/11/2022,44880,High,Top
+215,5,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,12,9/11/2021,19/11/2022,44884,Low,Bottom
+216,6,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,12,9/11/2021,19/11/2022,44884,Low,Bottom
+217,7,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,12,9/11/2021,19/11/2022,44884,Low,Bottom
+218,8,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,12,9/11/2021,19/11/2022,44884,Low,Bottom
+219,5,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,12,9/11/2021,19/11/2022,44884,Low,Top
+220,6,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,12,9/11/2021,19/11/2022,44884,Low,Top
+221,7,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,12,9/11/2021,19/11/2022,44884,Low,Top
+222,8,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,12,9/11/2021,19/11/2022,44884,Low,Top
+223,10,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,18,22/9/2021,13/3/2023,44998,Low,Top
+225,12,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,18,22/9/2021,13/3/2023,44998,Low,Top
+226,13,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,18,26/9/2021,4/3/2023,44989,Low,Top
+227,11,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,18,26/9/2021,4/3/2023,44989,Low,Top
+228,12,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,18,26/9/2021,4/3/2023,44989,Low,Top
+229,10,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,18,18/9/2021,4/3/2023,44989,Low,Bottom
+230,11,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,18,18/9/2021,4/3/2023,44989,Low,Bottom
+231,12,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,18,18/9/2021,4/3/2023,44989,Low,Bottom
+232,10,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,18,18/9/2021,4/3/2023,44989,Low,Top
+233,11,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,18,18/9/2021,4/3/2023,44989,Low,Top
+234,12,parallel,main,Heron,Coral Gardens,Shallow slope,0.4157481,0.4860039,18,18/9/2021,4/3/2023,44989,Low,Top
+235,10,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,18,18/9/2021,13/3/2023,44998,Low,Bottom
+236,11,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,18,18/9/2021,13/3/2023,44998,Low,Bottom
+237,12,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,18,18/9/2021,13/3/2023,44998,Low,Bottom
+238,10,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,18,18/9/2021,13/3/2023,44998,Low,Top
+239,11,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,18,18/9/2021,13/3/2023,44998,Low,Top
+240,12,parallel,main,Heron,Coral Gardens,Deep slope,0.6079547,0.690029,18,18/9/2021,13/3/2023,44998,Low,Top
+241,10,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,18,20/9/2021,7/3/2023,44992,High,Top
+242,11,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,18,20/9/2021,7/3/2023,44992,High,Top
+243,12,parallel,main,Heron,Eco1,Shallow slope,0.767748,0.7992249,18,20/9/2021,7/3/2023,44992,High,Top
+244,10,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,18,20/9/2021,7/3/2023,44992,High,Top
+245,11,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,18,20/9/2021,7/3/2023,44992,High,Top
+247,10,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,18,21/9/2021,7/3/2023,44992,High,Top
+248,11,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,18,21/9/2021,7/3/2023,44992,High,Top
+249,12,parallel,main,Heron,Eco2,Shallow slope,0.818898,0.7992249,18,21/9/2021,7/3/2023,44992,High,Top
+250,10,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,18,21/9/2021,7/3/2023,44992,High,Top
+251,11,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,18,21/9/2021,7/3/2023,44992,High,Top
+252,12,parallel,main,Heron,Eco2,Deep slope,0.6728195,0.6843807,18,21/9/2021,7/3/2023,44992,High,Top
+253,10,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,18,19/9/2021,26/2/2023,44983,Low,Bottom
+254,11,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,18,19/9/2021,26/2/2023,44983,Low,Bottom
+255,12,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,18,19/9/2021,26/2/2023,44983,Low,Bottom
+256,10,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,18,19/9/2021,26/2/2023,44983,Low,Top
+257,11,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,18,19/9/2021,26/2/2023,44983,Low,Top
+258,12,parallel,main,Heron,Halfway,Shallow slope,0.5597339,0.4860039,18,19/9/2021,26/2/2023,44983,Low,Top
+259,10,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,18,19/9/2021,26/2/2023,44983,Low,Bottom
+260,11,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,18,19/9/2021,26/2/2023,44983,Low,Bottom
+261,12,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,18,19/9/2021,26/2/2023,44983,Low,Bottom
+262,10,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,18,19/9/2021,26/2/2023,44983,Low,Top
+263,11,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,18,19/9/2021,26/2/2023,44983,Low,Top
+264,12,parallel,main,Heron,Halfway,Deep slope,0.7027373,0.690029,18,19/9/2021,26/2/2023,44983,Low,Top
+265,N1,parallel,cross,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,26/10/2022,18/3/2023,45003,Low,Top
+266,N1,parallel,cross,Heron,Halfway,Deep slope,0.7027373,0.690029,4,26/10/2022,18/3/2023,45003,Low,Top
+267,N2,parallel,cross,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,26/10/2022,12/3/2023,44997,Low,Top
+268,N2,parallel,cross,Heron,Halfway,Deep slope,0.7027373,0.690029,4,26/10/2022,12/3/2023,44997,Low,Top
+269,N3,parallel,cross,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,26/10/2022,18/3/2023,45003,Low,Top
+270,N3,parallel,cross,Heron,Halfway,Deep slope,0.7027373,0.690029,4,26/10/2022,12/3/2023,44997,Low,Top
+271,C1,crossed,cross,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,26/10/2022,18/3/2023,45003,Low,Top
+272,C1,crossed,cross,Heron,Halfway,Deep slope,0.7027373,0.690029,4,26/10/2022,18/3/2023,45003,Low,Top
+273,C2,crossed,cross,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,26/10/2022,18/3/2023,45003,Low,Top
+274,C2,crossed,cross,Heron,Halfway,Deep slope,0.7027373,0.690029,4,26/10/2022,18/3/2023,45003,Low,Top
+275,C3,crossed,cross,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,26/10/2022,18/3/2023,45003,Low,Top
+276,C3,crossed,cross,Heron,Halfway,Deep slope,0.7027373,0.690029,4,26/10/2022,18/3/2023,45003,Low,Top
+277,L1,parallel_loose,cross,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,26/10/2022,16/3/2023,45001,Low,Top
+278,L1,parallel_loose,cross,Heron,Halfway,Deep slope,0.7027373,0.690029,4,26/10/2022,16/3/2023,45001,Low,Top
+279,L2,parallel_loose,cross,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,26/10/2022,17/3/2023,45002,Low,Top
+280,L2,parallel_loose,cross,Heron,Halfway,Deep slope,0.7027373,0.690029,4,26/10/2022,17/3/2023,45002,Low,Top
+281,L3,parallel_loose,cross,Heron,Halfway,Shallow slope,0.5597339,0.4860039,4,26/10/2022,16/3/2023,45001,Low,Top
+282,L3,parallel_loose,cross,Heron,Halfway,Deep slope,0.7027373,0.690029,4,26/10/2022,16/3/2023,45001,Low,Top
+283,13,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,18,22/9/2021,13/3/2023,44998,Low,Top
+284,12,parallel,main,Heron,Eco1,Deep slope,0.7861196,0.6843807,18,20/9/2021,7/3/2023,44992,High,Top
+285,10,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,18,9/11/2021,3/4/2023,45019,Low,Top
+286,9,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,18,9/11/2021,3/4/2023,45019,Low,Top
+287,11,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,18,9/11/2021,3/4/2023,45019,Low,Top
+288,12,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,18,9/11/2021,3/4/2023,45019,Low,Bottom
+289,10,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,18,9/11/2021,3/4/2023,45019,Low,Bottom
+290,11,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,18,9/11/2021,3/4/2023,45019,Low,Bottom
+291,9,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,18,9/11/2021,3/4/2023,45019,Low,Bottom
+292,12,parallel,main,Keppels,Halfway Sheltered,Shallow slope,0.8237947,0.6935802,18,9/11/2021,3/4/2023,45019,Low,Top
+293,10,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,18,8/11/2021,3/4/2023,45019,High,Top
+293,10,parallel,redeploy,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,18,8/11/2021,12/4/2023,45028,High,Top
+294,10,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,18,8/11/2021,3/4/2023,45019,High,Bottom
+295,9,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,18,8/11/2021,27/3/2023,45012,High,Bottom
+296,11,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,18,8/11/2021,27/3/2023,45012,High,Bottom
+297,10,parallel,main,Heron,Halfway,Reef flat,0.6034261,0.5891784,18,26/9/2021,4/3/2023,44989,Low,Top
+298,14,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,18,22/9/2021,13/3/2023,44998,Low,Top
+299,11,parallel,main,Heron,Coral Gardens,Reef flat,0.5685581,0.5891784,18,22/9/2021,13/3/2023,44998,Low,Top
+300,12,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,18,10/11/2021,10/4/2023,45026,Low,Bottom
+301,9,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,18,10/11/2021,10/4/2023,45026,Low,Bottom
+302,10,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,18,10/11/2021,10/4/2023,45026,Low,Bottom
+303,11,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,18,10/11/2021,10/4/2023,45026,Low,Bottom
+304,11,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,18,10/11/2021,10/4/2023,45026,Low,Top
+305,9,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,18,10/11/2021,10/4/2023,45026,Low,Top
+306,12,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,18,10/11/2021,10/4/2023,45026,Low,Top
+307,10,parallel,main,Keppels,Clam Bay,Shallow slope,0.7320641,0.6935802,18,10/11/2021,10/4/2023,45026,Low,Top
+308,9,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,18,11/11/2021,27/3/2023,45012,High,Top
+308,9,parallel,redeploy,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,18,11/11/2021,12/4/2023,45028,High,Top
+309,9,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,18,11/11/2021,27/3/2023,45012,High,Bottom
+310,10,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,18,11/11/2021,27/3/2023,45012,High,Top
+311,10,parallel,main,Keppels,Halfway Exposed,Shallow slope,0.8839555,0.8901811,18,11/11/2021,27/3/2023,45012,High,Bottom
+312,11,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,18,9/11/2021,30/3/2023,45015,Low,Bottom
+313,10,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,18,9/11/2021,30/3/2023,45015,Low,Top
+314,9,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,18,9/11/2021,30/3/2023,45015,Low,Top
+315,11,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,18,9/11/2021,30/3/2023,45015,Low,Top
+316,10,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,18,9/11/2021,30/3/2023,45015,Low,Bottom
+317,12,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,18,9/11/2021,30/3/2023,45015,Low,Bottom
+318,9,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,18,9/11/2021,30/3/2023,45015,Low,Bottom
+319,12,parallel,main,Keppels,Humpy Sheltered,Shallow slope,0.6175632,0.6935802,18,9/11/2021,30/3/2023,45015,Low,Top
+320,10,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,18,10/11/2021,6/4/2023,45022,High,Bottom
+321,11,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,18,10/11/2021,6/4/2023,45022,High,Bottom
+322,9,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,18,10/11/2021,6/4/2023,45022,High,Top
+323,9,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,18,10/11/2021,6/4/2023,45022,High,Bottom
+324,10,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,18,10/11/2021,6/4/2023,45022,High,Top
+325,11,parallel,main,Keppels,Red Beach,Shallow slope,0.8962671,0.8901811,18,10/11/2021,6/4/2023,45022,High,Top
+326,11,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,18,8/11/2021,27/3/2023,45012,High,Top
+326,11,parallel,redeploy,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,18,8/11/2021,12/4/2023,45028,High,Top
+327,9,parallel,main,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,18,8/11/2021,27/3/2023,45012,High,Top
+327,9,parallel,redeploy,Keppels,Humpy Exposed,Shallow slope,0.8849176,0.8901811,18,8/11/2021,12/4/2023,45028,High,Top
